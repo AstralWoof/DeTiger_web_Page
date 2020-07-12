@@ -1,0 +1,68 @@
+
+body{
+	background-color: #162447;
+}
+h1{
+	color: #ffd700;
+}
+hr{
+	background-color:  #ffd700;
+}
+.lol{
+	color: blue;
+}
+#title_bar{
+	
+	text-align: center;
+
+}
+.title_name{
+	
+
+}
+.page_name{
+	padding-top: 70px;
+	font-size: 5em;
+	color: #f9d276 ;
+}
+
+#main{
+	background-color: #162447;
+}
+p{
+	color: white;
+	font-size: 1.5em;
+}
+.container-fluid{
+	
+	height: 50em;
+	
+    
+	
+}
+.info{
+	color: red;
+	background-color: yellow;
+}
+#goals{
+	color:#f9d276;
+}
+
+.laptop_fav{
+	font-size: 20em;
+	color: black;
+}
+.mr_robot{
+	font-size: 20em;
+	color: #cf7500;
+}
+.atom_pic{
+	font-size: 20em;
+	padding-top: 20px;
+	color:#1dd3bd;
+}
+.book_pic{
+	font-size: 20em;
+	padding: 20 20 20 20;
+	color: #679B9B;
+}
